@@ -24,6 +24,8 @@ cd CampusAura
 
 2️⃣ Install Dependencies
 
+3️⃣ add env in server folder from google drive 
+
 Terminal 1 – Server
 
 cd server
