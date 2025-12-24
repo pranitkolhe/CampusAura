@@ -25,13 +25,19 @@ cd CampusAura
 2️⃣ Install Dependencies
 
 Terminal 1 – Server
+
 cd server
+
 npm install
+
 nodemon server.js
 
 Terminal 2 – Frontend
+
 cd client
+
 npm install
+
 npm run dev
 
 3️⃣ Open in Browser
