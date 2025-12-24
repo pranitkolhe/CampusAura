@@ -32,7 +32,7 @@ cd server
 
 npm install
 
-nodemon server.js
+nodemon/node server.js
 
 Terminal 2 – Frontend
 
