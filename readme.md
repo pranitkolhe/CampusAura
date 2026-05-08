@@ -274,7 +274,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Authors
 
-- **Your Name** - Initial work - [GitHub](https://github.com/yourusername)
+- **Pranit Kolhe** - Initial work - [GitHub](https://github.com/pranitkolhe)
 
 ---
 
